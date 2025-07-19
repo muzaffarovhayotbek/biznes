@@ -1,0 +1,56 @@
+.about {
+    padding-top: 120px;
+    background-image: url('../../assets/img.avif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    padding-bottom: 180px;
+}
+
+.about-title {
+    width: 800px;
+    margin: 0px 83.2px;
+    padding: 0px 20px;
+
+}
+
+.about-title h1 {
+    width: 760px;
+    text-align: center;
+    font-size: 48px;
+    /* color: #ffffff; */
+    margin: 0px 0px 20px;
+}
+
+.about-title p {
+    width: 760px;
+    font-size: 19.2px;
+    /* color: #ffffff; */
+    margin: 0px 0px 30px;
+}
+
+.btns{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.bepul{
+    border: none;
+    padding: 12px 30px;
+    background-color: #6C63FF;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+.xususiyat{
+    border: none;
+    padding: 12px 30px;
+    font-size: 16px;
+    border-radius: 10px;
+    cursor: pointer;
+}

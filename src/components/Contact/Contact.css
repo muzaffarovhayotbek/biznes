@@ -1,0 +1,177 @@
+.contact {
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+
+.contact-title {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+}
+
+.contact-title h2 {
+    font-size: 40px;
+    color: #6C63FF;
+    text-align: center;
+}
+
+.contact-title p {
+    font-size: 17px;
+    color: #666666;
+    margin: 0 230px;
+}
+
+.contact__container {
+    margin-top: 25px;
+    display: flex;
+    gap: 50px;
+}
+
+.information {
+    width: 525px;
+}
+
+.information h2 {
+    width: 525px;
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #6C63FF;
+}
+
+.information p {
+    width: 525px;
+    font-size: 16px;
+    color: #333333;
+    margin: 0 0 30px;
+}
+
+.info p {
+    font-size: 16px;
+}
+
+.information-main {
+    display: flex;
+    flex-direction: column;
+    gap: 18px;
+}
+
+.info {
+    display: flex;
+    gap: 15px;
+}
+
+.info span {
+    font-size: 16px;
+    color: #333333;
+}
+
+.phone {
+    font-size: 16px;
+    color: #333333;
+}
+
+.email {
+    font-size: 16px;
+    color: #333333;
+}
+
+.week {
+    font-size: 16px;
+    color: #333333;
+}
+
+
+
+.form {
+    width: 585px;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 30px;
+    background-color: white;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
+    border-radius: 10px;
+}
+
+.name {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+.name label {
+    font-size: 16px;
+    color: #555555;
+    margin: 0 0 8px;
+}
+
+.name input {
+    padding: 12px 15px;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+}
+
+.email {
+    display: flex;
+    flex-direction: column;
+}
+
+.email label {
+    font-size: 16px;
+    color: #555555;
+    margin: 0 0 8px;
+}
+
+.email input {
+    padding: 12px 15px;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+.theme{
+    display: flex;
+    flex-direction: column;
+}
+.theme label{
+    font-size: 16px;
+    color: #555555;
+    margin: 0 0 8px;
+}
+.theme input{
+    padding: 12px 15px;
+    width: 100%;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.message{
+    display: flex;
+    flex-direction: column;
+}
+.message label{
+    font-size: 16px;
+    color: #555555;
+    margin: 0 0 8px;
+}
+.message textarea{
+    height: 120px;
+    padding: 12px 15px;
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+}
+.btn{
+    padding: 12px 30px;
+    border: none;
+    background-color: #6C63FF;
+    border-radius: 10px;
+    margin: 0;
+    font-size: 13px;
+    align-self: flex-start;
+    margin-top: 10px;
+    color: #FFFFFF;
+    cursor: pointer;
+}

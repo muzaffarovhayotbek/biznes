@@ -3,8 +3,8 @@ import Header from './components/Header/Header';
 import About from './components/About/About';
 import Contact from './components/Contact/Contact';
 import Footer from './components/Footer/Footer';
-import OurAbout from './components/OurAbout/OurAbout';
 import Feature from './components/Feature/Feature'
+import AboutSecond from './components/OurAbout/AboutSecond';
 
 function App() {
   return (
@@ -14,10 +14,11 @@ function App() {
         <About />
       </section>
       <section id="ourabout">aa
-        <OurAbout />
+        {/* <OurAbout /> */}
+        <AboutSecond></AboutSecond>
       </section>
       <section id="features">
-<Feature></Feature>
+        <Feature></Feature>
       </section>
       <section id="contact">
         <Contact />

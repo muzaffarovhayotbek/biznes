@@ -1,7 +1,7 @@
 import React from 'react'
-import './OurAbout.css'
+import './AboutSecond.css'
 import ourImg from '../../assets/aboutOur.avif'
-function OurAbout() {
+function AboutSecond() {
     return (
         <div>
             <div className="ourAbout">
@@ -22,4 +22,4 @@ function OurAbout() {
     )
 }
 
-export default OurAbout
+export default AboutSecond

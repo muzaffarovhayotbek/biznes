@@ -17,9 +17,9 @@ function Footer() {
                         <div className='footer-col'>
                             <h2>Tez havolalar</h2>
                             <a href="#">Bosh sahifa</a>
-                            <a href="#">Biz haqimizda</a>
-                            <a href="#">Xususiyatlar</a>
-                            <a href="#">Bog'lanish</a>
+                            <a href="#ourabout">Biz haqimizda</a>
+                            <a href="#features">Xususiyatlar</a>
+                            <a href="#contact">Bog'lanish</a>
                         </div>
                         <div className='footer-col'>
                             <h2>Xizmatlar</h2>

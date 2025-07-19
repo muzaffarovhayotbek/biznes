@@ -14,7 +14,6 @@ function App() {
         <About />
       </section>
       <section id="ourabout">aa
-        {/* <OurAbout /> */}
         <AboutSecond></AboutSecond>
       </section>
       <section id="features">

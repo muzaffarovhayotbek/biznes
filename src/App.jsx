@@ -13,7 +13,7 @@ function App() {
       <section id="about">
         <About />
       </section>
-      <section id="ourabout">a
+      <section id="ourabout">aa
         <OurAbout />
       </section>
       <section id="features">
